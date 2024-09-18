@@ -42,7 +42,7 @@ def predict(features):
 
 
 # Streamlit UI
-st.title('Predictive Maintenance Of AC')
+st.title('Predictive Maintenance Of Compressor(AC)')
 image_path = "AC.jpg"
 st.image(image_path, width=500)
 
